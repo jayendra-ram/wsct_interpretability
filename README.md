@@ -2,6 +2,15 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+Current Results:
+
+| Model          | Accuracy |
+|----------------|----------|
+| GPT-2 Medium   | 60%      |
+| GPT-2 Large    | 68%      |
+| GPT-Neo 125m   | 68%      |
+
+
 TODO:
 
 * table of results
